@@ -1,0 +1,9 @@
+p{
+    color:hsl(113, 71%, 70%);
+}
+
+.box{
+    background-color: rgb(245, 90, 90);
+    height: 100px;
+    width: 100px;
+}

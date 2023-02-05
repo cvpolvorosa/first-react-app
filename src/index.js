@@ -7,4 +7,4 @@ const rootDiv = document.getElementById("root");
 //Transform the root div into a react node
 const reactRoot = ReactDOM.createRoot(rootDiv);
 //Inject our app component into the react node
-reactRoot.render(<App></App>);
+reactRoot.render(<App />);
